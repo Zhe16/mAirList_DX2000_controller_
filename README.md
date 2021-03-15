@@ -1,4 +1,4 @@
-# mAirList Behringer DX2000 controller (inDev)
+# [EN] mAirList Behringer DX2000 controller (inDev)
 
 Arduino-base controller for mAirList and Behringer DX2000USB mixer
 
@@ -47,7 +47,7 @@ To-do list
 * Creating a script for mAirList for feedback 
 
 
-# mAirList Behringer DX2000 контроллер (inDev)
+# [RU] mAirList Behringer DX2000 контроллер (inDev)
 
 Контроллер для системы автоматизации радиовещания mAirList и микшерного пульта Behringer DX2000USB на базе Arduino MEGA
 
